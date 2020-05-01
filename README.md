@@ -33,3 +33,5 @@ Due to the developing nature of the text and code, chapter numbers are omitted a
 ## Origins
 
 This repository began as a fork of the sample code [repository](https://github.com/gbiggs/ros_book_sample_code) that accompanies the excellent text _Programming Robots with ROS_, by Morgan Quigley, Brian Gerkey and William D. Smart (O'Reilly Media, Inc., 2015). The original repository was distributed under the Apache 2.0 license. Differences in ROS and Ubuntu software versions, book organizational structure, and code details suggested moving from fork to distinct project, but I express my significant debt to this original repository and gratitude to its authors.
+
+Made a change
